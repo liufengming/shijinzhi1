@@ -15,11 +15,11 @@
 程序文说明 像下面的屏幕拷贝一样，这个应用软件满足了项目的最低规格。包含了2个局部变量（全球variables）, 2个列表数据（映射data）, 2个函数（procedures or functions）,还有2个if / else构造（structure）。
 
 
+![](/図5.png)
+
 
 下载链接. 这个应用程序是WordPress REST API使用，所有的功能测试，WordPress上REST接口的必要。可自由使用这边的测试网站。应用软件下载，MIT AI 2 Companion应用程序或扫描仪应用在使用QR码扫描这个下载，或点击以下链接https://drive.google.com/file/d/0By3vhVxl2nhlM0JMSGlxZ01rU1U/view?usp=sharing
 
-
-![](/図5.png)
 
 
 二维码下载链接：
