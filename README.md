@@ -12,6 +12,7 @@
 
 ![](/図4.png)
 
+程序文说明 像下面的屏幕拷贝一样，这个应用软件满足了项目的最低规格。包含了2个局部变量（全球variables）, 2个列表数据（映射data）, 2个函数（procedures or functions）,还有2个if / else构造（structure）。
 
 
 
