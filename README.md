@@ -4,6 +4,14 @@
 
 ![](/図1.png)
 
+二、代码
+
+![](/図2.png)
+
+![](/図3.png)
+
+![](/図4.png)
+
 
 ![](/333.png)
 https://drive.google.com/file/d/0By3vhVxl2nhlM0JMSGlxZ01rU1U/view?usp=sharing
